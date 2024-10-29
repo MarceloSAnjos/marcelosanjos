@@ -1,6 +1,6 @@
 ###  ✋🏾 Hello, I'm Marcelo!
 
-💻 Web Developer<br>
+💻  Software Engineer<br>
 🏡 Brazilian, Based in Maresias, SP.
 
 ### You can find me on
